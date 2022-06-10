@@ -29,6 +29,7 @@ const Wrapper = styled.div`
 const Quote = styled.p`
     font-size: 2rem;
     margin: 0;
+    text-align: center;
 `;
 
 const Author = styled(Quote)`
